@@ -1,0 +1,10 @@
+div#principal {
+    clear: both;
+}
+
+.centralizar,
+.principal {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
