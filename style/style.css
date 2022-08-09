@@ -1,12 +1,5 @@
-body{
-    background-image: url("images/yoshi.png");
-    background-repeat: no-repeat;
-    background-attachment: fixed;
-    background-position: center ;
-   }
-
 .texto {
-    color: white;
+    color: navy;
 }
 
 h1{
