@@ -1,5 +1,9 @@
 @charset "UTF-8";
 
+body{
+    background-image: url("images/seamless-pattern.webp");
+}
+
 div.quadrado {
     display: inline-block;
     border: 2px solid black;
@@ -18,5 +22,5 @@ div#Q2{
 }
 
 div#Q3{
-    background-image: url("images/yoshi.png");
+    
 }
