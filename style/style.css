@@ -1,3 +1,7 @@
+body{
+    background: url("images/yoshi.png");
+}
+
 .texto {
     color: navy;
 }
