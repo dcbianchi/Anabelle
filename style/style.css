@@ -5,10 +5,6 @@ body{
 
 #principal{
     width: 900px;
-    display: table;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     overflow: hidden;
 }
 
@@ -17,16 +13,11 @@ body{
     background: #c5c5b2;
     padding: 18px;
     font-weight: bold;
-    display: block;
     text-align: center;
-    margin: 0;
-
 }
 
 #box{
     background: #e8e8d9;
-    display:block;
-
 }
 
 #footer{
@@ -34,12 +25,10 @@ body{
     background: #c5c5b2;
     padding: 18px;
     font-weight: bold;
-    display: block;
     text-align: center;
 }
 
 .texto {
-    margin-top: 0px;
   }
 
 a {
