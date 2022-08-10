@@ -3,6 +3,13 @@ body{
     font: 16px, arial, helvetica, sans-serif;
 }
 
+#container {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
 #principal{
     width: 900px;
     overflow: hidden;
