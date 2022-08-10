@@ -10,8 +10,6 @@ body{
     justify-content: center;
     align-items: center;
     overflow: hidden;
-
-    border: 1px solid red;
 }
 
 #menu{
@@ -40,11 +38,12 @@ body{
     text-align: center;
 }
 
-p{
-    margin: 0px 0px;
-}
+.texto {
+    margin-top: 0px;
+  }
 
 a {
+    color: #4b566a;
     text-decoration: none;
-    margin: 0px;
+    padding: 5px;
 }
