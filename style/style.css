@@ -23,6 +23,19 @@ body{
     text-align: center;
 }
 
+#box{
+    background: #e8e8d9;
+}
+
+#footer{
+    width: 100%;
+    background: #c5c5b2;
+    padding: 18px;
+    font-weight: bold;
+    display: table;
+    text-align: center;
+}
+
 a {
     text-decoration: none;
 }
