@@ -1,17 +1,28 @@
-div#principal {
-    clear: both;
+body{
+    background: #d2d2c1 url("imagens/fundo.png");
+    font: 16px, arial, helvetica, sans-serif;
 }
 
-.centralizar,
-.principal {
-    display: flex;
-    align-items: center;
+#principal{
+    width: 900px;
+    display: table;
+    flex-direction: column;
     justify-content: center;
+    align-items: center;
+    overflow: hidden;
+
+    border: 1px solid red;
 }
 
-.header{
-    display: block;
+#menu{
+    width: 100%;
+    background: #c5c5b2;
+    padding: 18px;
+    font-weight: bold;
+    display: table;
+    text-align: center;
 }
 
-.menu {
+a {
+    text-decoration: none;
 }
