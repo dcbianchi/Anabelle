@@ -35,9 +35,6 @@ body{
     text-align: center;
 }
 
-.texto {
-  }
-
 a {
     color: #4b566a;
     text-decoration: none;
@@ -46,4 +43,5 @@ a {
 
 h1 {
 	color: #828271;
+    font-size: 1.2em;
 }
