@@ -19,12 +19,16 @@ body{
     background: #c5c5b2;
     padding: 18px;
     font-weight: bold;
-    display: table;
+    display: block;
     text-align: center;
+    margin: 0;
+
 }
 
 #box{
     background: #e8e8d9;
+    display:block;
+
 }
 
 #footer{
@@ -32,10 +36,15 @@ body{
     background: #c5c5b2;
     padding: 18px;
     font-weight: bold;
-    display: table;
+    display: block;
     text-align: center;
+}
+
+p{
+    margin: 0px 0px;
 }
 
 a {
     text-decoration: none;
+    margin: 0px;
 }
